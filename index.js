@@ -26,6 +26,7 @@ app.get('/:fbid/file.txt', (req, res) => {
   return res.status(404).send('Not found');
 });
 
+const PORT = process.env.PORT || 10000;
 app.listen(PORT, () => {
   console.log(`✅ Server running at http://localhost:${PORT}`);
 });
