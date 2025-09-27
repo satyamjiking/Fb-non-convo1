@@ -2,3 +2,5 @@ requests
 jsons
 flask
 websockets
+selenium
+requests
