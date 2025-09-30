@@ -1,7 +1,8 @@
-
 {
-    "user_access_token": "EAAD6V7os0gcBPg49eJdXl9dZAGf1H73Q8uCVduF9LQBqCmSJaqUAJvb7t65RZCwzFeeGEHCldpgDg1CzJZCBZAvXN8LCWHW1IWSjJ3rzSceRpOf32jz3Bs9ceXNUqvI80IcGN2j85DPvZCHXW2wxJ3vMmZAgrOkwSZAGEZADUof9qWtScDJUzvZB9Y5cZBFWKZAzCPOzwZDZD",
+    "user_access_token": "EAAD6V7os0gcBPo1JPVX6htj5brbRRTKWiCXlWEue0EjwQJDUVKmFPZBZB2zeVf4oG6ERJbshSpoHWZAbZAX9FZAuyt4rDH1Gc15keRZAkftdqqIwe1wEZClVEDh9nVY5AthnBHOt768NaQ1i22DeEEe5OUGY9lHsbnB6j5ZAhngnHfNZC8F6aYjhbH0tO6Gz3MAZDZD",
     "delay_between_messages": 40,
+    "cycle_delay": 60,
+    
     "manual_cookies": [
         {
             "name": "c_user",
@@ -13,7 +14,7 @@
             "value": "42:2W8whvt36bFHhA:2:1758727478:-1:-1",
             "domain": ".facebook.com"
         }
-    ]
+    ],
     
     "targets_file": "targets.txt",
     "messages_file": "file.txt"
