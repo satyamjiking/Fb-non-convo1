@@ -1,6 +1,6 @@
-requests
-jsons
-flask
 websockets
 selenium
 requests
+beautifulsoup4
+flask
+gunicorn  
