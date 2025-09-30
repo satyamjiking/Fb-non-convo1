@@ -1,7 +1,19 @@
+
 {
-    "user_access_token": "EAAD6V7os0gcBPuo5vHSL4BZBIciD8wDEsTPN3cZCKDP2a5JtBdm9sutTDNU8EBnhrznnDgUZBV2gdg6ZBVfuBG4ve5wVG7u4JHmMMifLpDCZCqpaNVsZCJ0skm3uP4FTsumWDNksLiKX2ld3WuRD2WqVF5NrwCZA9tOkZBHx0Xm2BVOlyO8Xl1NWWYoT9GhlswZDZD",
-    "thread_url": "https://www.messenger.com/t/727904243631404",
+    "user_access_token": "EAAD6V7os0gcBPg49eJdXl9dZAGf1H73Q8uCVduF9LQBqCmSJaqUAJvb7t65RZCwzFeeGEHCldpgDg1CzJZCBZAvXN8LCWHW1IWSjJ3rzSceRpOf32jz3Bs9ceXNUqvI80IcGN2j85DPvZCHXW2wxJ3vMmZAgrOkwSZAGEZADUof9qWtScDJUzvZB9Y5cZBFWKZAzCPOzwZDZD",
     "delay_between_messages": 40,
-    "headless": true, 
-    "single_run": true
+    "manual_cookies": [
+        {
+            "name": "c_user",
+            "value": "100036815892828",
+            "domain": ".facebook.com"
+        },
+        {
+            "name": "xs",
+            "value": "42:2W8whvt36bFHhA:2:1758727478:-1:-1",
+            "domain": ".facebook.com"
+        }
+    ]
+    
+    // यहाँ आपकी config.json की बाकी सेटिंग्स (जैसे target_user_ids, cycle_delay) आएंगी।
 }
