@@ -15,5 +15,6 @@
         }
     ]
     
-    // यहाँ आपकी config.json की बाकी सेटिंग्स (जैसे target_user_ids, cycle_delay) आएंगी।
+    "targets_file": "targets.txt",
+    "messages_file": "file.txt"
 }
