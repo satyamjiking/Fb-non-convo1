@@ -1,1 +1,7 @@
-EAAD6V7os0gcBPuo5vHSL4BZBIciD8wDEsTPN3cZCKDP2a5JtBdm9sutTDNU8EBnhrznnDgUZBV2gdg6ZBVfuBG4ve5wVG7u4JHmMMifLpDCZCqpaNVsZCJ0skm3uP4FTsumWDNksLiKX2ld3WuRD2WqVF5NrwCZA9tOkZBHx0Xm2BVOlyO8Xl1NWWYoT9GhlswZDZD
+{
+    "user_access_token": "EAAD6V7os0gcBPuo5vHSL4BZBIciD8wDEsTPN3cZCKDP2a5JtBdm9sutTDNU8EBnhrznnDgUZBV2gdg6ZBVfuBG4ve5wVG7u4JHmMMifLpDCZCqpaNVsZCJ0skm3uP4FTsumWDNksLiKX2ld3WuRD2WqVF5NrwCZA9tOkZBHx0Xm2BVOlyO8Xl1NWWYoT9GhlswZDZD",
+    "thread_url": "https://www.messenger.com/t/RECIPIENT_USER_ID",
+    "delay_between_messages": 8,
+    "headless": true, 
+    "single_run": true
+}
